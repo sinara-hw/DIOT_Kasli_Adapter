@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=DIOT_Kasli_Adapter.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -194,7 +194,7 @@ OutputEnabled7_OutputMedium3=3
 OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
 Configuration7_Name1=OutputConfigurationParameter1
-Configuration7_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842754~1,16842753~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=[PCB Document]
+Configuration7_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=EXIFHWRV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842754~1,16842753~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16777218~1,16777224~1,16777225~1,16777223~1,16842755~1,16777226~1,16777221~1,16842756~1|PlotBoardProfile=False|PlotBoardProfileFileName=DIOT_Kasli_Adapter.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=DIOT_Kasli_Adapter.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=DIOT_Kasli_Adapter.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=DIOT_Kasli_Adapter.GKO|UserLayerName.Caption1=DIOT_Kasli_Adapter.GTP|UserLayerName.Caption10=DIOT_Kasli_Adapter.G3|UserLayerName.Caption11=DIOT_Kasli_Adapter.GP2|UserLayerName.Caption12=DIOT_Kasli_Adapter.GBS|UserLayerName.Caption13=DIOT_Kasli_Adapter.GM6|UserLayerName.Caption14=DIOT_Kasli_Adapter.GM7|UserLayerName.Caption15=DIOT_Kasli_Adapter.GBL|UserLayerName.Caption16=DIOT_Kasli_Adapter.GM5|UserLayerName.Caption17=DIOT_Kasli_Adapter.GM10|UserLayerName.Caption18=DIOT_Kasli_Adapter.GM14|UserLayerName.Caption19=DIOT_Kasli_Adapter.GM15|UserLayerName.Caption2=DIOT_Kasli_Adapter.GTO|UserLayerName.Caption20=DIOT_Kasli_Adapter.GM16|UserLayerName.Caption21=DIOT_Kasli_Adapter.G4|UserLayerName.Caption22=DIOT_Kasli_Adapter.GTL|UserLayerName.Caption23=DIOT_Kasli_Adapter.GBO|UserLayerName.Caption24=DIOT_Kasli_Adapter.GP3|UserLayerName.Caption25=DIOT_Kasli_Adapter.GM13|UserLayerName.Caption26=DIOT_Kasli_Adapter.GPT|UserLayerName.Caption27=DIOT_Kasli_Adapter.GP1|UserLayerName.Caption28=DIOT_Kasli_Adapter.GM9|UserLayerName.Caption29=DIOT_Kasli_Adapter.G5|UserLayerName.Caption3=DIOT_Kasli_Adapter.GTS|UserLayerName.Caption30=DIOT_Kasli_Adapter.GM1|UserLayerName.Caption31=DIOT_Kasli_Adapter.GM8|UserLayerName.Caption32=DIOT_Kasli_Adapter.G6|UserLayerName.Caption33=DIOT_Kasli_Adapter.GM3|UserLayerName.Caption34=DIOT_Kasli_Adapter.GBP|UserLayerName.Caption4=DIOT_Kasli_Adapter.GM4|UserLayerName.Caption5=DIOT_Kasli_Adapter.GM2|UserLayerName.Caption6=DIOT_Kasli_Adapter.GPB|UserLayerName.Caption7=DIOT_Kasli_Adapter.GP4|UserLayerName.Caption8=DIOT_Kasli_Adapter.G1|UserLayerName.Caption9=DIOT_Kasli_Adapter.G2|UserLayerName.Count=35|UserLayerName.Layer0=16973837|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777225|UserLayerName.Layer11=16842754|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16908294|UserLayerName.Layer14=16908295|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908298|UserLayerName.Layer18=16908302|UserLayerName.Layer19=16908303|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908304|UserLayerName.Layer21=16777223|UserLayerName.Layer22=16777217|UserLayerName.Layer23=16973831|UserLayerName.Layer24=16842755|UserLayerName.Layer25=16908301|UserLayerName.Layer26=16973848|UserLayerName.Layer27=16842753|UserLayerName.Layer28=16908297|UserLayerName.Layer29=16777226|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16908289|UserLayerName.Layer31=16908296|UserLayerName.Layer32=16777221|UserLayerName.Layer33=16908291|UserLayerName.Layer34=16973833|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16842756|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16777224|DocumentPath=E:\1_SINARA_HW\DIOT\DIOT_Kasli_Adapter\PCB\DIOT_Kasli_Adapter.PcbDoc
 OutputType8=NC Drill
 OutputName8=NC Drill Files
 OutputCategory8=Fabrication
@@ -250,15 +250,15 @@ Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=LayerStackReportView|Units=Imperial|DocumentPath=[PCB Document]
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for CPCIS_EEM_Adaper\Grabber.PDF
-ReleaseManaged2=0
-OutputBasePath2=Project Outputs for CPCIS_EEM_Adaper\
+OutputFilePath2=E:\1_SINARA_HW\DIOT\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\CPCIS_EEM_Adapter.PDF
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for DIOT_Kasli_Adapter
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=CPCIS_EEM_Adapter
+OutputFileName2=DIOT_Kasli_Adapter
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -277,7 +277,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=E:\1_SINARA_HW\DIOT\na github\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\
+OutputFilePath3=E:\1_SINARA_HW\DIOT\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for DIOT_Kasli_Adapter
 OutputPathMedia3=
@@ -329,9 +329,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for CPCIS_EEM_Adaper\Grabber.PDF
+RelativeOutputPath2=E:\1_SINARA_HW\DIOT\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\CPCIS_EEM_Adapter.PDF
 OpenOutputs2=1
-RelativeOutputPath3=E:\1_SINARA_HW\DIOT\na github\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\
+RelativeOutputPath3=E:\1_SINARA_HW\DIOT\DIOT_Kasli_Adapter\Project Outputs for DIOT_Kasli_Adapter\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
