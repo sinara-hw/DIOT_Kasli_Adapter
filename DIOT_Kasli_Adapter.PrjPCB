@@ -43,7 +43,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Line_15__MGT
 
 [Preferences]
 PrefsVaultGUID=
@@ -321,6 +320,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXIFHWRV
 
+[Document17]
+DocumentPath=DIOT_Kasli_Adapter.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=D829C276-77AF-4D20-B7A5-B9E629DA7236
 Description=Line_15__MGT
@@ -344,7 +360,7 @@ ParamVariationCount=0
 
 [ProjectVariant2]
 UniqueID=33CB71C1-B845-42F9-BC8C-16CBC3BEC1DE
-Description=Line_15_LVDS
+Description=Line_15__LVDS
 AllowFabrication=0
 ParameterCount=0
 VariationCount=13
@@ -362,6 +378,62 @@ Variation11=Designator=R32|UniqueId=\YSPZKUEV\WCIDUTPQ|Kind=1|AlternatePart=
 Variation12=Designator=R30|UniqueId=\YSPZKUEV\HREVLDAL|Kind=1|AlternatePart= 
 Variation13=Designator=IC7|UniqueId=\ITKCJBBM\EUQJQZAW|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DIOT_Kasli_Adapter\Design Rule Check - DIOT_Kasli_Adapter.html
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Address1
+Value=Warsaw University of Technology
+
+[Parameter2]
+Name=Address2
+Value=Nowowiejska 15/19 00-665 Warsaw
+
+[Parameter3]
+Name=Address3
+Value=-
+
+[Parameter4]
+Name=CheckedBy
+Value=-
+
+[Parameter5]
+Name=CheckedDate
+Value=-
+
+[Parameter6]
+Name=Designer
+Value=Marcin Kiepiela
+
+[Parameter7]
+Name=DivGrp
+Value=ISE
+
+[Parameter8]
+Name=DrawnBy
+Value=Marcin Kiepiela
+
+[Parameter9]
+Name=Project1
+Value=DIOT_Kasli_Adapter
+
+[Parameter10]
+Name=Projet
+Value=ARTIQ/Sinara/DIOT
+
+[Parameter11]
+Name=SheetTotal
+Value=8
+
+[Parameter12]
+Name=Title
+Value=DIOT_Kasli_Adapter
+
+[Parameter13]
+Name=Version
+Value=1.0
 
 [Configuration1]
 Name=Sources
@@ -974,6 +1046,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1338,7 +1440,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
